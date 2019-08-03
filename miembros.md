@@ -19,3 +19,5 @@
 * Antman
 * Modificación hacia villanos.md
 * Rehacer de Modificación hacia villanos.md
+
+* Validación de issue #5 realizada
